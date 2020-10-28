@@ -1,3 +1,5 @@
+--FileStreamHelper.lua 文件脚本
+--lua脚本的文件读写
 require("EnumHelper.lua")
 
 key = {
