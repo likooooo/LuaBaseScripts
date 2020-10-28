@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LuaLib", "LuaLib\LuaLib.vcproj", "{1F87EF50-C454-496D-AE60-89E77BD3994A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CppLibForLua", "luaopen_CppLib\luaopen_CppLib.vcproj", "{FA54C459-5977-4DBC-A169-2FD8D6C78ED1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleTest", "ConsoleTest\ConsoleTest.vcproj", "{5FE88F93-4CB9-4015-A783-AE29C7679D12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F87EF50-C454-496D-AE60-89E77BD3994A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1F87EF50-C454-496D-AE60-89E77BD3994A}.Debug|Win32.Build.0 = Debug|Win32
+		{1F87EF50-C454-496D-AE60-89E77BD3994A}.Release|Win32.ActiveCfg = Release|Win32
+		{1F87EF50-C454-496D-AE60-89E77BD3994A}.Release|Win32.Build.0 = Release|Win32
+		{FA54C459-5977-4DBC-A169-2FD8D6C78ED1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FA54C459-5977-4DBC-A169-2FD8D6C78ED1}.Debug|Win32.Build.0 = Debug|Win32
+		{FA54C459-5977-4DBC-A169-2FD8D6C78ED1}.Release|Win32.ActiveCfg = Release|Win32
+		{FA54C459-5977-4DBC-A169-2FD8D6C78ED1}.Release|Win32.Build.0 = Release|Win32
+		{5FE88F93-4CB9-4015-A783-AE29C7679D12}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5FE88F93-4CB9-4015-A783-AE29C7679D12}.Debug|Win32.Build.0 = Debug|Win32
+		{5FE88F93-4CB9-4015-A783-AE29C7679D12}.Release|Win32.ActiveCfg = Release|Win32
+		{5FE88F93-4CB9-4015-A783-AE29C7679D12}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

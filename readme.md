@@ -1,0 +1,5 @@
+--当前目录下的脚本为lua基础数据处理的脚本，作为学习lua的输出结果
+--lua.exe实在vs2008的环境下编译win32的lua解释器
+--例程
+--1.
+--Sample/LuaCallCpp     --将win32的msgbox封装成lua可调用的dll,在test.lua中运行=>.\Sample\LuaCallCpp\Bin\Lua.exe .\Sample\LuaCallCpp\Bin\test.lua
